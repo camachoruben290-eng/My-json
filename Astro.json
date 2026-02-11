@@ -6926,7 +6926,17 @@ box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
   <span class="doramacssyy"></span>
 </a>
     <span class="Astro" onclick="marcarFavorito('lovely', 'go:lovely', this)"><i class="fas fa-heart"></i></span>
-        <p class="sarpty">El hilo rojo</p>
+        <p class="sarpty"></p>
+  </div>
+
+div class="postersarp" data-genero="mx" id="Tren Fantasma">
+  <a href="go:Hilorojo" onclick="agregarSeleccion('Tren Fantasma)">
+    <img src="https://image.tmdb.org/t/p/w500/2tsSBC8v47oBbdKkyGmvMWy2IhK.jpg" alt="Tren Fantasma">
+  <span class="doramacss"></span>
+  <span class="doramacssyy"></span>
+</a>
+    <span class="Astro" onclick="marcarFavorito('lovely', 'go:lovely', this)"><i class="fas fa-heart"></i></span>
+        <p class="sarpty"></p>
   </div>
 </div>
  </strong>
