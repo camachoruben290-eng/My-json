@@ -7,7 +7,7 @@
       "nombre": "Películas",
       "items": [
         {
-          "id": "Fantasma",
+          "id": "",
           "titulo": "Tren Fantasma",
           "imagen": "https://image.tmdb.org/t/p/w500/2tsSBC8v47oBbdKkyGmvMWy2IhK.jpg",
           "enlace": "go:Tren",
