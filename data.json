@@ -1,0 +1,45 @@
+{
+  "app": "AstroMovie+",
+  "version": "1.0",
+  "categorias": [
+    {
+      "id": "peliculas",
+      "nombre": "Películas",
+      "items": [
+        {
+          "id": "batman",
+          "titulo": "Batman",
+          "imagen": "https://image.tmdb.org/t/p/w500/jOFiLDC1fcRHDq5WSgt2zKAjTfh.jpg",
+          "enlace": "go:batman",
+          "nuevo": true,
+          "calidad": "HD",
+          "edad": "+16"
+        },
+        {
+          "id": "deseo",
+          "titulo": "Wish",
+          "imagen": "https://image.tmdb.org/t/p/w500/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
+          "enlace": "go:deseo",
+          "nuevo": false,
+          "calidad": "HD",
+          "edad": "TP"
+        }
+      ]
+    },
+    {
+      "id": "series",
+      "nombre": "Series",
+      "items": [
+        {
+          "id": "tamers",
+          "titulo": "Digimon Tamers",
+          "imagen": "https://image.tmdb.org/t/p/w500/5d4ALnB0lZWkOIMujohfTjuoq1D.jpg",
+          "enlace": "go:tamers",
+          "nuevo": true,
+          "calidad": "HD",
+          "edad": "+7"
+        }
+      ]
+    }
+  ]
+}
